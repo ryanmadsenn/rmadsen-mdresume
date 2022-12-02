@@ -33,7 +33,7 @@ BS - Software Engineering - Data Science Minor
 `November 2022 - Present`
 __Brigham Young University - Idaho__, Business Solutions Developer
 
-- Develop backend solutions for the BYUI Suppor Center (BSC) which handles all calls, chats, and emails to the school from both students and non-students.
+- Develop backend solutions for the BYUI Support Center (BSC) which handles all calls, chats, and emails to the school from both students and non-students.
 - Create and maintain automations that handle communication tickets from creation to escalation
 - Ensure collected data is accurate and complete 
 
