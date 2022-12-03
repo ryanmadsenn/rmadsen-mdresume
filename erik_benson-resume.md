@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Erik Benson's Resume
 ---
 # Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
