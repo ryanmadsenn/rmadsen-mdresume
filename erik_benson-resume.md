@@ -7,10 +7,6 @@ A student at Brigham Young University - Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">ben18006@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 
 ## Education
