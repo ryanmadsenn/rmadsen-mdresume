@@ -2,8 +2,8 @@
 layout: resume
 title: Erik Benson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Erik Benson
+A student at Brigham Young University - Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,15 +15,13 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Graduated 2018`
+__Ridgeline High School__, Providence, UT
 
-- Full academic scholarship with 4.0 GPA
+`2021-2024`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
 
 
 ## Related Experience
