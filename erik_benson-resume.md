@@ -19,6 +19,14 @@ A student at Brigham Young University - Idaho.
 __Brigham Young University - Idaho__, Rexburg, Idaho
 -Bachelors of Science: Physics, Computational Emphasis 
 
+## Certifications and Skills
+
+__Eagle Scout__, Troop 331
+
+__Python__, 2 years of experience
+
+__SQL__, Less than a year
+
 ## Service and Work History
 
 `2022-Present`
