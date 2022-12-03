@@ -15,12 +15,9 @@ A student at Brigham Young University - Idaho.
 
 ## Education
 
-`Graduated 2018`
-__Ridgeline High School__, Providence, UT
-
-`2021-2024`
+`Projected Graduation: 2024`
 __Brigham Young University - Idaho__, Rexburg, Idaho
-
+-Bachelors of Science: Physics, Computational Emphasis 
 
 ## Service and Work History
 
