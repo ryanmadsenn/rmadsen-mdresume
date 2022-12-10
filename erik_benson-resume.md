@@ -3,7 +3,7 @@ layout: resume
 title: Erik Benson's Resume
 ---
 # Erik Benson
-A student at Brigham Young University - Idaho.
+Student at Brigham Young University - Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">ben18006@byui.edu</a>
@@ -11,9 +11,9 @@ A student at Brigham Young University - Idaho.
 
 ## Education
 
-`Projected Graduation: 2024`
-__Brigham Young University - Idaho__, Rexburg, Idaho
--Bachelors of Science: Physics, Computational Emphasis 
+`Projected Graduation: 2024`  
+__Brigham Young University - Idaho__, Rexburg, Idaho  
+- Bachelors of Science: Physics, Computational Emphasis 
 
 ## Certifications and Skills
 
