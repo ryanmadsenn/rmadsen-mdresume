@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Ryan Madsen's Resume
 ---
 # Ryan Madsen
 Software Engineer - Data Scientist
@@ -12,7 +12,6 @@ Software Engineer - Data Scientist
 | <a href="https://github.com/ryanmadsenn">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
@@ -45,7 +44,7 @@ __Brigham Young University - Idaho__, Reports and Systems Analyst
 
 ## Service and Work History
 `2019-2021`
-__Service Missionary__, The Church of Jesus Christ of Latter-day Saints - Texas McAllen Mission
+__Service Missionary__, McAllen, Texas
 
 `2018-2019`
 __Dental Hygienist Assistant__, West Richland Family Dental
